@@ -1,0 +1,8 @@
+:HL["/portfolio-preview/_next/static/chunks/2hwzhm28u0d_5.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..600&family=Geist+Mono:wght@400;500&family=Geist:wght@400;500;600&display=swap","style"]
+:HL["/portfolio-preview/logos/orbit-ledger.svg","image"]
+:HL["/portfolio-preview/images/fieldwork.jpg","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"orbit-ledger","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"work","h":131168,"c":"$Q2"}]]
+0:{"b":"YyaevJXj_nQOhPmpk8fGf","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
